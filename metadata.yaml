@@ -1,0 +1,30 @@
+_repo: The-flying-chance_68552
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCreagh, Gordon
+    birthdate: 1889
+    deathdate: 1953
+    gutenberg_agent_id: '54824'
+    url: http://www.gutenberg.org/2009/agents/54824
+    wikipedia: https://en.wikipedia.org/wiki/Gordon_MacCreagh
+description: ''
+gutenberg_issued: '2022-07-18'
+identifiers:
+  gutenberg: '68552'
+language: en
+pgterms:marc905: 20220709215652mccreagh
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Frank A. Munsey Company,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Aerial operations -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The flying chance
+url: http://www.gutenberg.org/ebooks/68552
